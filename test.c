@@ -7,6 +7,8 @@ void MultiplicationTable(int num, int i)
         return MultiplicationTable(num, i+1);
 }
 int main()
+
+
 {
     int num,i=0;
     printf("Enter a number:");
